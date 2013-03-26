@@ -1,4 +1,4 @@
-QUICKLY BORROWED FROM: https://github.com/jsoverson/grunt-template-jasmine-requirejs
+## QUICKLY BORROWED FROM: https://github.com/jsoverson/grunt-template-jasmine-requirejs
 
 ## Installation
 
