@@ -2,7 +2,9 @@ QUICKLY BORROWED FROM: https://github.com/jsoverson/grunt-template-jasmine-requi
 
 ## Installation
 
-npm install https://github.com/stormid/grunt-template-jasmine-requirejs-storm/archive/master.tar.gz
+```
+npm install https://github.com/stormid/grunt-template-jasmine-requirejs-storm/archive/master.tar.gz --save-dev
+```
 
 RequireJS template for Jasmine unit tests
 -----------------------------------------
